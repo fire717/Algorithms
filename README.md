@@ -1,6 +1,3 @@
 # Algorithms
 
-不管做哪个方向，算法永远都是最基础的东西。
- 
-
-有空就多刷刷算法题吧。
+Practice code
