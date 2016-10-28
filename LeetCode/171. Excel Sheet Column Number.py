@@ -1,4 +1,4 @@
-# 49ms，又一个超过90%以上的，开心。
+# 49ms，又一个超过90%以上的，开心。 熟悉ord()函数
 
 class Solution(object):
     def titleToNumber(self, s):
