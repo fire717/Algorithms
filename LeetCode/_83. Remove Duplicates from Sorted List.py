@@ -13,6 +13,8 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        if head == None or head.next == None:  
+            return head  
         pre = head  
         cur = head.next  
         while cur != None:                         #当cur节点非空
