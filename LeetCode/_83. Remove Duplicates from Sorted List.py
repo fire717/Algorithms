@@ -1,4 +1,5 @@
 # 对链表操作还是不熟悉啊，不知道怎么遍历。一行行分析代码，终于勉强理解了...
+# 对链表节点操作，head赋值给x后，操作x，head一样会变，因为head本质是指针，是地址
 
 # Definition for singly-linked list.
 # class ListNode(object):
