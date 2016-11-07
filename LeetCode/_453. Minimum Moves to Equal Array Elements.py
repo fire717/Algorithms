@@ -64,4 +64,14 @@ class Solution(object):
             maxn=max(nums)
         return count
 
-#
+# 好吧，查了一个，这么简单....首先熟悉下sum()函数，既然有最大最小肯定有求和嘛...这个肯定是数学推导出来的...
+# 又查了一下思路：我们知道，给所有的元素都加1并不能改变原数组中的数之间的差值。
+# 所以这题就转化为求最少的减1操作。而要使数组中的元素全部相等，又要使用减法。那么最少的次数就是让这些元素全部都等于数组中最小的数。
+# 好吧，逆向思维，so easy....
+class Solution(object):
+    def minMoves(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        return (sum(nums) - min(nums) * len(nums))
