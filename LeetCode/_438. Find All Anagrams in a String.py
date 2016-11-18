@@ -1,4 +1,4 @@
-#
+#想到了用字典，但是是子母为key，不能比较，这里用数字做key就行了。而且字典也是无序的
 #python字典 get()方法; 返回一个给定的key对应的值。如果key是没有用的，然后返回默认值None返回。
 class Solution(object):
     def findAnagrams(self, s, p):
