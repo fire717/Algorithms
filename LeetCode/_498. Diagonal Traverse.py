@@ -32,13 +32,15 @@ class Solution(object):
         return res
         
  ##############################################
- #好吧还是查了
+ #好吧还是查了。就三行好简洁。
  class Solution(object):
     def findDiagonalOrder(self, matrix):
         """
         :type matrix: List[List[int]]
         :rtype: List[int]
         """
-        l = [[i,j] for i in range(len(matrix)) for j in range(len(matrix[0]))]
-        l.sort(key=lambda x: float(x[0]+x[1])-float(x[(x[0]+x[1])%2])*0.00000001 )
-        return [matrix[x][y] for [x,y] in l]
+        l = [[i,j] for i in range(len(matrix)) for j in range(len(matrix[0]))]   #学下并掌握这种写法啊
+        l.sort(key=lambda x: float(x[0]+x[1])-float(x[(x[0]+x[1])%2])*0.00000001 ) #看不懂为啥用float什么的
+        #sort中的key用于给sort提供排依据的函数，例如len()
+        #lambda函数也叫匿名函数，即，函数没有具体的名称,而用def创建的方法是有名称的。
+        return [matrix[x][y] for [x,y] in l] #这是按固定顺序返回吧
