@@ -40,7 +40,7 @@ class Solution(object):
         :rtype: List[int]
         """
         l = [[i,j] for i in range(len(matrix)) for j in range(len(matrix[0]))]   #学下并掌握这种写法啊。生成二维矩阵。
-        #两个for直接写在一行
+        #两个for直接写在一行。没有任何符号。
         l.sort(key=lambda x: float(x[0]+x[1])-float(x[(x[0]+x[1])%2])*0.00000001 ) #看不懂为啥用float什么的
         #sort中的key用于给sort提供排依据的函数，例如len()
         #lambda函数也叫匿名函数，即，函数没有具体的名称,而用def创建的方法是有名称的。
