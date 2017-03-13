@@ -1,9 +1,9 @@
 # Algorithms
 
-Practice code
+## 基础
 
 * [C语言基础算法](https://github.com/fire717/Algorithms/tree/master/BeginnerCode_in_C)
-* Leetcode: [Python](https://github.com/fire717/Algorithms/tree/master/LeetCode/python)  |  [C/C++]() 
+* [Leetcode](https://github.com/fire717/Algorithms/tree/master/LeetCode)
 
 ## 专题
 * [动态规划DP](https://github.com/fire717/Algorithms/tree/master/specialTopic/DP)
