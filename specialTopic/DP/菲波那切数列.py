@@ -11,6 +11,7 @@ def fib(n):
     else:
         return fib(n-1) + fib(n-2)
 
+#快速求法
 def fastFib(n,memo):
     global numCalls
     numCalls += 1
