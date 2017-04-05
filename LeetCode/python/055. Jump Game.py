@@ -11,7 +11,7 @@ class Solution(object):
         if nums[0] == 0 and nums[-1] != 0:
             return False
         for i in xrange(len(nums)-1):
-            if nums[i] == 1:
+            if nums[i] == 1: #为1时直接跳过，可能这一步节省了点时间
                 continue
             if nums[i] == 0:
                 b=0
