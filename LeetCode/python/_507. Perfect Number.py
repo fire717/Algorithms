@@ -27,6 +27,7 @@ class Solution(object):
         """
         if num <= 0: return False
         ans, SQRT = 0, int(num ** 0.5)
-        ans = sum(i + num//i for i in range(1, SQRT+1) if not num % i)
+        ans = sum(i + num//i for i in range(1, SQRT+1) if not num % i) # //整除
+        #通过i+num//i，一遍循环到根号为止，最后再除以二即可。而且同一个除数对应的商，也不用判断两次
         if num == SQRT ** 2: ans -= SQRT
         return ans - num == num
