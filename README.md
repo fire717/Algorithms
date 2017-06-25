@@ -6,4 +6,4 @@
 
 ## 专题
 * [动态规划DP](https://github.com/fire717/Algorithms/tree/master/specialTopic/DP)
-* [排序Sort](/master/specialTopic/sort)
+* [排序Sort](/tree/master/specialTopic/sort)
