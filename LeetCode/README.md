@@ -1,6 +1,8 @@
 
 ## Index
 
+[test](./python)
+[Finish](./python/001. Two Sum.py) 
 
  No. | Title  | Difficulty | Python | C++
 ---|---|---|---|---
