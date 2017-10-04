@@ -2,7 +2,7 @@
 ## Index
 
 [test](./python)
-[Finish](./python/001. Two Sum.py) 
+[Finish](./python/001.%20Two%20Sum.py) 
 
  No. | Title  | Difficulty | Python | C++
 ---|---|---|---|---
