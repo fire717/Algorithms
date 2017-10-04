@@ -1,9 +1,6 @@
 
 ## Index
 
-[test](./python)
-[Finish](./python/001.%20Two%20Sum.py) 
-
  No. | Title  | Difficulty | Python | C++
 ---|---|---|---|---
 001|TwoSum|Easy|[Finish](./python/001.TwoSum.py)|[Finish](./C_plus/001.TwoSum.cpp)
