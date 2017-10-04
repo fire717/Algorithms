@@ -4,7 +4,7 @@
 
  No. | Title  | Difficulty | Python | C++
 ---|---|---|---|---
-001| Two Sum| Easy |[Finish](./python/001. Two Sum.py)|[Finish](./C_plus/001. Two Sum.cpp)
+001| Two Sum| Easy |[Finish](/python/001. Two Sum.py)|[Finish](/C_plus/001. Two Sum.cpp)
 006| ZigZag Conversion| |[Half](./python/_006. ZigZag Conversion.py)|
 007| Reverse Integer| |[Finish](./python/007. Reverse Integer.py)|
 008| String to Integer (atoi)| |[Half](./python/_008. String to Integer.py)|
