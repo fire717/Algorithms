@@ -5,7 +5,7 @@
 ---|---|---|---|---
 001|TwoSum|Easy|[Finish](./python/001.TwoSum.py)|[Finish](./C_plus/001.TwoSum.cpp)
 006|ZigZagConversion||[Half](./python/_006.ZigZagConversion.py)|
-007|ReverseInteger||[Finish](./python/007.ReverseInteger.py)|
+007|ReverseInteger|Easy|[Finish](./python/007.ReverseInteger.py)|[Half](./C_plus/_007.ReverseInteger.cpp)
 008|StringtoInteger(atoi)||[Half](./python/_008.StringtoInteger.py)|
 009|SubmissionDetails||[Finish](./python/009.SubmissionDetails.py)|
 012|IntegertoRoman||[Finish](./python/012.IntegertoRoman.py)|
