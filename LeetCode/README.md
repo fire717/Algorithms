@@ -231,7 +231,7 @@
 617|MergeTwoBinaryTrees|Easy|[Half](./python/_617.MergeTwoBinaryTrees.py)|[Half](./C_plus/_617.MergeTwoBinaryTrees.cpp)
 628|MaximumProductofThreeNumbers||[Finish](./python/628.MaximumProductofThreeNumbers.py)|
 657|JudgeRouteCircle|Easy||[Finish](./C_plus/657.JudgeRouteCircle.cpp)
-
+682|BaseballGame.py|Easy|[Finish](./python/682.BaseballGame.py)|
 
 * Finish means AC by myself.
 * Half means AC after learning from the Discuss.
