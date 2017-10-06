@@ -7,7 +7,7 @@
 006|ZigZagConversion||[Half](./python/_006.ZigZagConversion.py)|
 007|ReverseInteger|Easy|[Finish](./python/007.ReverseInteger.py)|[Half](./C_plus/_007.ReverseInteger.cpp)
 008|StringtoInteger(atoi)||[Half](./python/_008.StringtoInteger.py)|
-009|SubmissionDetails||[Finish](./python/009.SubmissionDetails.py)|
+009|SubmissionDetails|Easy|[Finish](./python/009.SubmissionDetails.py)|[Half](./C_plus/_009.PalindromeNumber.cpp)
 012|IntegertoRoman||[Finish](./python/012.IntegertoRoman.py)|
 013|RomantoInteger||[Half](./python/_013.RomantoInteger.py)|
 014|LongestCommonPrefix||[Half](./python/_014.LongestCommonPrefix.py)|
