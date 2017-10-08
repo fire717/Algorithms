@@ -233,6 +233,6 @@
 657|JudgeRouteCircle|Easy||[Finish](./C_plus/657.JudgeRouteCircle.cpp)
 682|BaseballGame|Easy|[Finish](./python/682.BaseballGame.py)|
 690|EmployeeImportance|Easy|[Finish](./python/690.EmployeeImportance.py)|
-
+693|BinaryNumberwithAlternatingBits|Easy|[Finish](./python/693.BinaryNumberwithAlternatingBits.py.py)|
 * Finish means AC by myself.
 * Half means AC after learning from the Discuss.
