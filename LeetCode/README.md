@@ -4,7 +4,8 @@
  No. | Title  | Difficulty | Python | C++
 ---|---|---|---|---
 001|TwoSum|Easy|[Finish](./python/001.TwoSum.py)|[Finish](./C_plus/001.TwoSum.cpp)
-006|ZigZagConversion||[Half](./python/_006.ZigZagConversion.py)|
+002|AddTwoNumbers|Medium|[Half](./python/_002.AddTwoNumbers.py)|
+006|ZigZagConversion|Medium|[Half](./python/_006.ZigZagConversion.py)|
 007|ReverseInteger|Easy|[Finish](./python/007.ReverseInteger.py)|[Half](./C_plus/_007.ReverseInteger.cpp)
 008|StringtoInteger(atoi)||[Half](./python/_008.StringtoInteger.py)|
 009|SubmissionDetails|Easy|[Finish](./python/009.SubmissionDetails.py)|[Half](./C_plus/_009.PalindromeNumber.cpp)
