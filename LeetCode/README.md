@@ -240,6 +240,7 @@
 693|BinaryNumberwithAlternatingBits|Easy|[Finish](./python/693.BinaryNumberwithAlternatingBits.py)|
 695|Max Area of Island|Easy|[Half](./python/＿695.MaxAreaofIsland.py)|
 771|Jewels and Stones|Easy|[Finish](./python/771.JewelsandStones.py)|
-852|Peak Index in a Mountain Array|Easy|[Finish](./python/PeakIndex.py)|
+832|Flipping an Image|Easy|[Finish](./python/832.FlippinganImage.py)|
+852|Peak Index in a Mountain Array|Easy|[Finish](./python/852.PeakIndex.py)|
 * Finish means AC by myself.
 * Half means AC after learning from the Discuss.
