@@ -239,5 +239,6 @@
 690|EmployeeImportance|Easy|[Finish](./python/690.EmployeeImportance.py)|
 693|BinaryNumberwithAlternatingBits|Easy|[Finish](./python/693.BinaryNumberwithAlternatingBits.py)|
 695|Max Area of Island|Easy|[Half](./python/＿695.MaxAreaofIsland.py)|
+771|Jewels and Stones|Easy|[Finish](./python/771.JewelsandStones.py)|
 * Finish means AC by myself.
 * Half means AC after learning from the Discuss.
