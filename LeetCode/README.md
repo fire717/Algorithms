@@ -242,6 +242,7 @@
 728|Self Dividing Numbers|Easy|[Finish](./python/728.SelfDividingNumbers.py)|
 771|Jewels and Stones|Easy|[Finish](./python/771.JewelsandStones.py)|
 804|Unique Morse Code Words|Easy|[Finish](./python/804.UniqueMorse.py)|
+806|Number of Lines To Write String|Easy|[Finish](./python/806.NumberofLines.py)|
 811|Subdomain Visit Count|Easy|[Finish](./python/811.SubdomainVisitCount.py)|
 821|Number of Lines To Write String|Easy|[Finish](./python/821.ShortestDistance.py)|
 832|Flipping an Image|Easy|[Finish](./python/832.FlippinganImage.py)|
