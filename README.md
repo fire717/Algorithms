@@ -6,6 +6,7 @@
 * [>>Leetcode<<](/LeetCode)
 * [C语言基础算法](/BeginnerCode_in_C)
 * [剑指offer](/offers)
+* [大厂笔试题](/true)
 
 ## 专题
 * [排序Sort](/specialTopic/sort)
