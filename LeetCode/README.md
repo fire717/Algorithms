@@ -240,6 +240,7 @@
 693|BinaryNumberwithAlternatingBits|Easy|[Finish](./python/693.BinaryNumberwithAlternatingBits.py)|
 695|Max Area of Island|Easy|[Half](./python/＿695.MaxAreaofIsland.py)|
 728|Self Dividing Numbers|Easy|[Finish](./python/728.SelfDividingNumbers.py)|
+746|Min Cost Climbing Stairs|Easy|[Finish](./python/746.MinCostClimbingStairs.py)|
 771|Jewels and Stones|Easy|[Finish](./python/771.JewelsandStones.py)|
 804|Unique Morse Code Words|Easy|[Finish](./python/804.UniqueMorse.py)|
 806|Number of Lines To Write String|Easy|[Finish](./python/806.NumberofLines.py)|
