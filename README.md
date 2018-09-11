@@ -11,3 +11,6 @@
 ## 专题
 * [排序Sort](/specialTopic/sort)
 * [动态规划DP](/specialTopic/DP)
+
+## other
+* [返回数组中和最小的子数组](/other/minList.py)
