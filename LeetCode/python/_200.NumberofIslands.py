@@ -1,10 +1,29 @@
 #这种题没啥头绪...
-class Solution(object):
+#84ms  92%
+# DFS
+class Solution:
     def numIslands(self, grid):
-        def sink(i, j):
-            if 0 <= i < len(grid) and 0 <= j < len(grid[i]) and grid[i][j] == '1': #如果在长度范围内且等于1
-                grid[i][j] = '0'  #置0
-                map(sink, (i+1, i-1, i, i), (j, j, j+1, j-1)) #对上下左右的元素迭代
-                return 1 #返回一个1
-            return 0 #=0则返回0
-        return sum(sink(i, j) for i in range(len(grid)) for j in range(len(grid[i]))) #整体遍历一遍求和
+        if not grid:
+            return 0
+        row = len(grid)
+        col = len(grid[0])          
+        count = 0
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j] == '1':
+                    self.dfs(grid, row, col, i, j)     
+                    count += 1 
+        return count 
+
+    def dfs(self, grid, row, col, x, y):
+        if grid[x][y] == '0':
+            return
+        grid[x][y] = '0'
+        if x != 0:
+            self.dfs(grid, row, col, x - 1, y)
+        if x != row - 1:
+            self.dfs(grid, row, col, x + 1, y)
+        if y != 0:
+            self.dfs(grid, row, col, x, y - 1)
+        if y != col - 1:
+            self.dfs(grid, row, col, x, y + 1)
