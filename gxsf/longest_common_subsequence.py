@@ -1,3 +1,4 @@
+#dp思想
 x = "GAC"
 y = "AGCAT"
 
