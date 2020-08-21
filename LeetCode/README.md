@@ -60,7 +60,7 @@
 107|-Binary-Tree-Level-Order-Traversal-II||[Half](./python/_107.-Binary-Tree-Level-Order-Traversal-II.py)|
 108|ConvertSortedArraytoBinarySearchTree||[Half](./python/_108.ConvertSortedArraytoBinarySearchTree.py)|
 110|BalancedBinaryTree||[Half](./python/_110.BalancedBinaryTree.py)|
-111|MinimumDepthofBinaryTree||[Half](./python/_111.MinimumDepthofBinaryTree.py)|
+111|MinimumDepthofBinaryTree||[Half(Finish非递归方案)](./python/_111.MinimumDepthofBinaryTree.py)|
 112|PathSum||[Half](./python/_112.PathSum.py)|
 118|Pascal'sTriangle||[Half](./python/_118.Pascal'sTriangle.py)|
 119|Pascal'sTriangleII||[Finish](./python/119.Pascal'sTriangleII.py)|
