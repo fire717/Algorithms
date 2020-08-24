@@ -249,5 +249,8 @@
 821|Number of Lines To Write String|Easy|[Finish](./python/821.ShortestDistance.py)|
 832|Flipping an Image|Easy|[Finish](./python/832.FlippinganImage.py)|
 852|Peak Index in a Mountain Array|Easy|[Finish](./python/852.PeakIndex.py)|
+1480| 一维数组的动态和|Easy|[Finish](./python/1480.py)|
+
+
 * Finish means AC by myself.
 * Half means AC after learning from the Discuss.
