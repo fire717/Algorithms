@@ -126,7 +126,7 @@
 279|PerfectSquares||[Half](./python/_279.PerfectSquares.py)|
 283|MoveZeroes||[Half](./python/_283.MoveZeroes.py)|
 287|FindtheDuplicateNumber||[Finish](./python/287.FindtheDuplicateNumber.py)|
-290|WordPattern||[Half](./python/_290.WordPattern.py)|
+290|WordPattern||[Finish](./python/_290.WordPattern.py)|
 292|NimGame||[Finish](./python/292.NimGame.py)|
 299|BullsandCows||[Half](./python/_299.BullsandCows.py)|
 303|RangeSumQuery-Immutable||[Finish](./python/303.RangeSumQuery-Immutable.py)|
