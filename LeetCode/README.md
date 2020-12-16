@@ -254,4 +254,4 @@
 1689|十-二进制数的最少数目|Middle|[Finish](./python/1689.py)|
 
 * Finish means AC by myself.
-* Half means AC after learning from the Discuss.
+* Half means AC after learning from the Discuss. And I will try again later.
