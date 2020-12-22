@@ -56,6 +56,7 @@
 100|SameTree||[Half](./python/_100.SameTree.py)|
 101|SymmetricTree||[Half](./python/_101.SymmetricTree.py)|
 102|BinaryTreeLevelOrderTraversal||[Half](./python/_102.BinaryTreeLevelOrderTraversal.py)|
+103|二叉树的锯齿形层序遍历|Medium|[Finish](./python/103.py)|
 104|MaximumDepthofBinaryTree||[Half](./python/_104.MaximumDepthofBinaryTree.py)|
 107|-Binary-Tree-Level-Order-Traversal-II||[Half](./python/_107.-Binary-Tree-Level-Order-Traversal-II.py)|
 108|ConvertSortedArraytoBinarySearchTree||[Half](./python/_108.ConvertSortedArraytoBinarySearchTree.py)|
