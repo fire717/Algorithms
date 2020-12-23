@@ -235,6 +235,7 @@
 637|Average of Levels in Binary Tree|Easy|[Half](./python/_637.AverageofLevelsinBinaryTree.py)|
 645|Set Mismatch|Easy|[Finish](./python/645.SetMismatch.py)|
 657|JudgeRouteCircle|Easy||[Finish](./C_plus/657.JudgeRouteCircle.cpp)
+674|最长连续递增序列|Easy|[Finish](./python/674.py)|
 669|Trim a Binary Search Tree|Easy|[Half](./python/_669.TrimaBinarySearchTree.py)|
 682|BaseballGame|Easy|[Finish](./python/682.BaseballGame.py)|
 690|EmployeeImportance|Easy|[Finish](./python/690.EmployeeImportance.py)|
