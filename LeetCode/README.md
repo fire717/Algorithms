@@ -253,6 +253,7 @@
 852|Peak Index in a Mountain Array|Easy|[Finish](./python/852.PeakIndex.py)|
 1480|一维数组的动态和|Easy|[Finish](./python/1480.py)|
 1512|好数对的数目|Easy|[Finish](./python/1512.py)|
+1641|统计字典序元音字符串的数目|Middle|[Half](./python/1641.py)|
 1672|最富有客户的资产总量|Easy|[Finish](./python/1672.py)|
 1689|十-二进制数的最少数目|Middle|[Finish](./python/1689.py)|
 
