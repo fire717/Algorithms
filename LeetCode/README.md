@@ -130,7 +130,7 @@
 290|WordPattern||[Finish](./python/_290.WordPattern.py)|
 292|NimGame||[Finish](./python/292.NimGame.py)|
 299|BullsandCows||[Half](./python/_299.BullsandCows.py)|
-300|最长递增子序列|Midle|[Finish](./python/300.py)|
+300|最长递增子序列|Medium|[Finish](./python/300.py)|
 303|RangeSumQuery-Immutable||[Finish](./python/303.RangeSumQuery-Immutable.py)|
 306|AdditiveNumber||[Half](./python/_306.AdditiveNumber.py)|
 310|MinimumHeightTrees||[Half](./python/_310.MinimumHeightTrees.py)|
@@ -254,7 +254,7 @@
 852|Peak Index in a Mountain Array|Easy|[Finish](./python/852.PeakIndex.py)|
 1480|一维数组的动态和|Easy|[Finish](./python/1480.py)|
 1512|好数对的数目|Easy|[Finish](./python/1512.py)|
-1641|统计字典序元音字符串的数目|Middle|[Half](./python/1641.py)|
+1641|统计字典序元音字符串的数目|Medium|[Half](./python/1641.py)|
 1672|最富有客户的资产总量|Easy|[Finish](./python/1672.py)|
 1689|十-二进制数的最少数目|Middle|[Finish](./python/1689.py)|
 
