@@ -130,6 +130,7 @@
 290|WordPattern||[Finish](./python/_290.WordPattern.py)|
 292|NimGame||[Finish](./python/292.NimGame.py)|
 299|BullsandCows||[Half](./python/_299.BullsandCows.py)|
+300|最长递增子序列|Midle|[Finish](./python/300.py)|
 303|RangeSumQuery-Immutable||[Finish](./python/303.RangeSumQuery-Immutable.py)|
 306|AdditiveNumber||[Half](./python/_306.AdditiveNumber.py)|
 310|MinimumHeightTrees||[Half](./python/_310.MinimumHeightTrees.py)|
