@@ -1,3 +1,19 @@
+"""
+自己做出来的动态规划题，但实际耗时还有空间啊
+
+执行用时：
+2380 ms
+, 在所有 Python3 提交中击败了
+27.72%
+的用户
+内存消耗：
+14.8 MB
+, 在所有 Python3 提交中击败了
+16.33%
+的用户
+
+"""
+
 class Solution:
     def lengthOfLIS(self, nums):
         len_nums = len(nums)
