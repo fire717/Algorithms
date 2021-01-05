@@ -252,6 +252,7 @@
 821|Number of Lines To Write String|Easy|[Finish](./python/821.ShortestDistance.py)|
 832|Flipping an Image|Easy|[Finish](./python/832.FlippinganImage.py)|
 852|Peak Index in a Mountain Array|Easy|[Finish](./python/852.PeakIndex.py)|
+1025|除数博弈|Easy|[Half](./python/1025.py)|
 1480|一维数组的动态和|Easy|[Finish](./python/1480.py)|
 1512|好数对的数目|Easy|[Finish](./python/1512.py)|
 1641|统计字典序元音字符串的数目|Medium|[Half](./python/1641.py)|
